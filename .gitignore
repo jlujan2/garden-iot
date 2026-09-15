@@ -1,0 +1,13 @@
+# Wi-Fi / credentials
+secrets.h
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
